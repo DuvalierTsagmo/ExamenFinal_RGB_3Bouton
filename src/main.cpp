@@ -92,8 +92,9 @@ void loop()
     colorWipe(RGB_Strip.Color(RED_VAL_4, GREEN_VAL_4, BLUE_VAL_4), 1000); // Custom colour4: White
 
     rainbow(20); // Rainbow
-    appendPayload("Tep", val1);
-    appendPayload("bouton1", Droit);
+    appendPayload("Bouton1", val1);
+      appendPayload("Bouton2", val2);
+        appendPayload("Bouton3", val3);
     sendPayload();
 }
 
