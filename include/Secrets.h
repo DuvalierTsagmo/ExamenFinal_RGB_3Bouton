@@ -39,19 +39,19 @@ Dans le cadre du cours AIIA1013, ne modifié pas cet information
 //#define SECRET_MQTT_SERVER_PORT 1883
 
 
-#define SECRET_MQTT_SERVER_IP "198.164.130.74"
-#define SECRET_MQTT_SERVER_PORT 1883
+//#define SECRET_MQTT_SERVER_IP "198.164.130.74"
+//#define SECRET_MQTT_SERVER_PORT 1883
 
 //#define SECRET_MQTT_SERVER_IP "192.168.1.21"
 //#define SECRET_MQTT_SERVER_PORT 1883
 
-//#define SECRET_MQTT_SERVER_IP "10.124.199.21"
-//#define SECRET_MQTT_SERVER_PORT 1883
+#define SECRET_MQTT_SERVER_IP "10.124.199.21"
+#define SECRET_MQTT_SERVER_PORT 1883
 
 /*
 Détails sur l'indentification de l'objet
 Cette information provient de l'objet virtuel créer sur le serveur Thingsbord
 */
 
-#define SECRET_TOKEN "iblPR197nd9OIGESL8ex"
-#define SECRET_DEVICE_ID "6ca0e750-5ed6-11ed-8ee2-53dd4d2f7d52"
+#define SECRET_TOKEN "zuixySEm9fD9eZzgpFVm"
+#define SECRET_DEVICE_ID "279cbff0-7aef-11ed-8fd7-e3d583114459"
